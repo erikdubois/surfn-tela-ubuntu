@@ -2,6 +2,8 @@
 
 ## 2026.06.23 — Tela colour split
 
+**Install docs:** the README install section now lists the meta packages (top-level `*-icons-meta`, plus the group meta where applicable) alongside the per-variant `*-icons-git` package — replacing the outdated single `pacman -S` line.
+
 ### What Changed
 
 Initial standalone repo. The **Surfn-Tela-Ubuntu** folder icons were taken from the Tela icon theme
